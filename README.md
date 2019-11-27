@@ -1,1 +1,1 @@
-# Piramide
+# Ejercicios Oscar Osorio
